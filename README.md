@@ -1,2 +1,2 @@
-# Robô-autônomo-bombeiro
+# Robô-seguidor-de-linha
 Código arduino do projeto de Robotica
